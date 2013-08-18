@@ -1,0 +1,10 @@
+E:\Vs_Project\VCT\DeviceTest\obj\Debug\ResolveAssemblyReference.cache
+E:\Vs_Project\VCT\DeviceTest\bin\Debug\DeviceTest.dll
+E:\Vs_Project\VCT\DeviceTest\bin\Debug\DeviceTest.pdb
+E:\Vs_Project\VCT\DeviceTest\bin\Debug\VCT.dll
+E:\Vs_Project\VCT\DeviceTest\bin\Debug\DsAuto.dll
+E:\Vs_Project\VCT\DeviceTest\bin\Debug\log4net.dll
+E:\Vs_Project\VCT\DeviceTest\bin\Debug\VCT.pdb
+E:\Vs_Project\VCT\DeviceTest\bin\Debug\DsAuto.pdb
+E:\Vs_Project\VCT\DeviceTest\obj\Debug\DeviceTest.dll
+E:\Vs_Project\VCT\DeviceTest\obj\Debug\DeviceTest.pdb

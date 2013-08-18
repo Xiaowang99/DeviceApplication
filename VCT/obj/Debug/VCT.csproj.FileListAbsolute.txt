@@ -1,0 +1,8 @@
+E:\Vs_Project\VCT\VCT\bin\Debug\VCT.dll
+E:\Vs_Project\VCT\VCT\bin\Debug\VCT.pdb
+E:\Vs_Project\VCT\VCT\obj\Debug\ResolveAssemblyReference.cache
+E:\Vs_Project\VCT\VCT\obj\Debug\VCT.dll
+E:\Vs_Project\VCT\VCT\obj\Debug\VCT.pdb
+E:\Vs_Project\VCT\VCT\bin\Debug\DsAuto.dll
+E:\Vs_Project\VCT\VCT\bin\Debug\DsAuto.pdb
+E:\Vs_Project\VCT\VCT\bin\Debug\log4net.dll
